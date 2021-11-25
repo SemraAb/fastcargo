@@ -1,0 +1,2 @@
+# FAST CARGO SAYTI
+Fast cargo , kargo sirketinin web sehifesidir. Sirket haqqinda umumi melumat , qaydalar , kalkulyator , en cox verilen suallar , daxil ol ve qeydiyyat sehifelerin var. Hemcinin oz suallarinizi bizimle elaqe bolmesine yazaraq bize birbasa gondere bilersiz. Responsivedir.
